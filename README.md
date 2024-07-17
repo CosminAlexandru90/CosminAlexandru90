@@ -20,3 +20,9 @@ I'm an artist of all sorts.
 #
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosminAlexandru90)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Cosmin's Journey</h3></summary>
+   I always wanted to be a scientist, probably from watching Dexter's Lab as a kid, and to pursue theoretical physics, but I ended up becoming an aerospace engineer. I followed that with a master's degree in robotics. After 8 years of working in aviation, I discovered the pleasure of creating software. I'm currently a frontend developer, but I don't shy away from dabbling with backend Java code.
