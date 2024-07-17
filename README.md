@@ -1,6 +1,6 @@
 # 🧑‍🎨 Cosmin Alexandru
 
-**`Modern day Renaissance man`**
+***`Modern day Renaissance man`***
 
 I'm an artist of all sorts.
 
